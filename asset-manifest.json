@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.ba1a7a61.css",
-    "main.js": "/static/js/main.413a0105.js",
-    "index.html": "/index.html",
-    "main.ba1a7a61.css.map": "/static/css/main.ba1a7a61.css.map",
-    "main.413a0105.js.map": "/static/js/main.413a0105.js.map"
+    "main.css": "/lewis1286.github.io/react-web-audio/static/css/main.ba1a7a61.css",
+    "main.js": "/lewis1286.github.io/react-web-audio/static/js/main.9d1d95f8.js",
+    "index.html": "/lewis1286.github.io/react-web-audio/index.html",
+    "main.ba1a7a61.css.map": "/lewis1286.github.io/react-web-audio/static/css/main.ba1a7a61.css.map",
+    "main.9d1d95f8.js.map": "/lewis1286.github.io/react-web-audio/static/js/main.9d1d95f8.js.map"
   },
   "entrypoints": [
     "static/css/main.ba1a7a61.css",
-    "static/js/main.413a0105.js"
+    "static/js/main.9d1d95f8.js"
   ]
 }
